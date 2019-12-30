@@ -1,7 +1,7 @@
 
 /****************************************
  * File:   main.c                       *
- * Author: Arttu Lehtovaara 1701848     *
+ * Author: Arttu Lehtovaara             *
  *                                      *
  * Created on March 24, 2019, 12:29 PM  *
  ****************************************/
@@ -246,7 +246,6 @@ int main(int argc, char* argv[])
     // print successful and failed reads and writes
     // also print - as a comparison check - how many read and write 
     // totals (failed + successful) should have been
-    // (you can forget the word "timeout" in assignment)
     
     return 0;
 }
